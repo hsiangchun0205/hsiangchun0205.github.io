@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hsiang-Chun Wang</title>
+    <link>https://tmpjainyi.github.io/author/Hsiang-Chun/</link>
+      <atom:link href="https://tmpjainyi.github.io/author/Hsiang-Chun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sahil Verma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tmpjainyi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sahil Verma</title>
+      <link>https://tmpjainyi.github.io/author/Hsiang-Chun/</link>
+    </image>
+    
+    <item>
+      <title>RecXplainer: Post-hoc attribute-based explanations for recommender systems</title>
+      <link>https://tmpjainyi.github.io/publication/recxplainer-amazon-22/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/recxplainer-amazon-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortized Counterfactual Explanations</title>
+      <link>https://tmpjainyi.github.io/post/amortized-counterfactuals2021/</link>
+      <pubDate>Tue, 15 Jun 2021 01:55:33 +0530</pubDate>
+      <guid>https://tmpjainyi.github.io/post/amortized-counterfactuals2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Counterfactual Explanations</title>
+      <link>https://tmpjainyi.github.io/post/counterfactuals-survey/</link>
+      <pubDate>Tue, 15 Jun 2021 01:52:06 +0530</pubDate>
+      <guid>https://tmpjainyi.github.io/post/counterfactuals-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Explanations for Machine Learning: Challenges Revisited</title>
+      <link>https://tmpjainyi.github.io/publication/hcxai-chi2021-cfe-challenges/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/hcxai-chi2021-cfe-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitfalls of Explainable ML: An Industry Perspective</title>
+      <link>https://tmpjainyi.github.io/publication/journe2021-pitfalls-xai/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/journe2021-pitfalls-xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortized Generation of Sequential Counterfactual Explanations for Black-box Models</title>
+      <link>https://tmpjainyi.github.io/publication/amortized-counterfactuals2021/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/amortized-counterfactuals2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing biased data to improve fairness and accuracy</title>
+      <link>https://tmpjainyi.github.io/publication/removing-fairness-paper/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/removing-fairness-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeFlow: Dynamic Shape Interpreter for TensorFlow</title>
+      <link>https://tmpjainyi.github.io/publication/shapeflow-eth-zurich/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/shapeflow-eth-zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Explanations for Machine Learning: A Review</title>
+      <link>https://tmpjainyi.github.io/publication/counterfactual-survey/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/counterfactual-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation Fairness Definitions</title>
+      <link>https://tmpjainyi.github.io/publication/recommendation-fairness-definitions/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/recommendation-fairness-definitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Symbolic Execution Using Constraint Problems - Initial Results</title>
+      <link>https://tmpjainyi.github.io/publication/nus-paper/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/nus-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAP: Noise-Based Sensitivity Analysis for Programs</title>
+      <link>https://tmpjainyi.github.io/publication/mit-nap-workshop/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/mit-nap-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness Definitions Explained</title>
+      <link>https://tmpjainyi.github.io/publication/fairness-definitions/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/fairness-definitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic debug-repair of heap manipulations</title>
+      <link>https://tmpjainyi.github.io/publication/sdb-wolverine1/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://tmpjainyi.github.io/publication/sdb-wolverine1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
